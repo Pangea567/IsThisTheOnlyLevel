@@ -103,7 +103,7 @@ java OmerFarukKaragoz
 
 A gameplay demonstration video is available here:
 
-YouTube: *(Add your video link here)*
+YouTube: *https://youtu.be/qQTafl8Qthg*
 
 ---
 
